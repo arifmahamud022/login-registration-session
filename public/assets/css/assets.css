@@ -1,0 +1,88 @@
+.banner{
+    background: url(/assets/img/mybanner.jpg) center no-repeat;
+    padding: 200px;
+    background-attachment: fixed;
+}
+.myproducts{
+    margin-top: 40px;
+    /* background-color: blue; */
+    margin-bottom: 30px;
+    
+    
+}
+.any{
+    box-shadow: 1px 1px 1px 1px  rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+    margin-left: 20px;
+
+}
+.any:hover{
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+}
+.writee{
+    margin-left: 7px;
+    padding-top: -90px;
+}
+.all{
+    padding: -72px;
+    box-shadow: 5px 5px 5px 5px black;
+    padding-bottom: 1px;
+    border-radius: 20px;
+    background: #F0FBFC;
+    margin-bottom: 20px;
+}
+.all:hover{
+    transition: 1s;
+    background: rgba(0, 0, 0, 0.3) ;
+    border-radius: 0;
+}
+.innn{
+    background: #D0D7D8;
+    padding: 20px;
+    padding-right: 50px;
+    border-radius: 0 20px 20px 0;
+}
+
+.innn1{
+    background: #D0D7D8;
+    padding: 20px;
+    padding-right: 50px;
+    border-radius: 20px 0 0 20px;
+}
+.allproducts{
+    margin-bottom: 20px;
+}
+.myppp{
+    background: #99c6e1;
+    display: inline-block;
+    border-radius: 30px;
+}
+.pro2{
+    text-align: center;
+    margin: 10px;
+}
+.mywrite{
+    margin-left: 35px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.wj{
+    padding-top: 10px;
+}
+.gaterthan{
+    margin-right: 5px;
+    margin-top: 10px;
+    
+}
+.writeee{
+    text-align: center;
+    padding: 15px;
+}
+.mylogin{
+    text-align: center;
+}
